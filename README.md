@@ -7,13 +7,13 @@ There is one football fan who is looking at the live commentary online and will 
 
 You are given two arrays - F1,F2,…,Fn, which denote the times when an important event happens in the football match. And similarly C1,C2,…,Cm for cricket. You sadly have the remote in hand. You start out by watching the El Clasico. But whenever an Important event happens in the sport which isn't on the TV right now, you will be forced to switch to that sport's channel, and this continues, i.e., you switch channels if and only if when an important event in the other sport happens. Find the total number of times you will have to switch between the channels.
 
-Input:
+ # # Input:
 First line will contain T, number of testcases. Then the testcases follow.
 Each testcase contains of 3 lines of input.
 First line contain 2 space separated integers N and M, number of important events in football and cricket match respectively.
 Second line contain N space separated integers Fi, where the ith index represents ith important event in the football match.
 Third line contain M space separated integers Ci, where the ith index represents ith important event in the cricket match.
-Output:
+# # Output:
 For each testcase, output in a single line answer to the problem.
 
 Constraints
